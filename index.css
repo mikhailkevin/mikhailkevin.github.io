@@ -1,0 +1,54 @@
+.kotak {
+	border: 1px solid;
+	width: 400px;
+	margin: auto;
+	background-color: red;
+}
+
+#login {
+	margin-left: 125px;
+	color: white;
+}
+
+.jika {
+	margin-left: 15px;
+	color: white;
+
+}
+
+.email {
+	margin-left: 5px;
+	color: white;
+
+}
+
+#email {
+	margin-left: 20px;
+}
+
+.password {
+	margin-left: 5px;
+	color: white;
+
+}
+
+#password {
+	margin-left: 20px;
+}
+
+#titik-dua {
+	margin-left: 23px;
+}
+
+.belum {
+	margin-left: 15px;
+	color: white;
+
+}
+
+.log-in {
+	margin-left: 160px;
+	width: 80px;
+	height: 35px;
+}
+
